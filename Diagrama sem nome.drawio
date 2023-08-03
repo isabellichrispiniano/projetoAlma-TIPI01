@@ -1,9 +1,30 @@
-<mxfile host="app.diagrams.net" modified="2023-08-03T12:10:33.984Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" version="21.6.6" etag="RrFRXqGvnrVcBXqSpe9A" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-03T12:23:23.427Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="8ZEh5Sw0np1IRKIMM_rn" version="21.6.6" type="github">
   <diagram name="Página-1" id="wagzvxXPvPQ6t-FmDGqK">
-    <mxGraphModel>
+    <mxGraphModel dx="1114" dy="610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="hhgGqz2qNIXKNzTDPToa-9" value="Início&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hhgGqz2qNIXKNzTDPToa-10" value="Fim" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="610" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hhgGqz2qNIXKNzTDPToa-11" value="&lt;br&gt;Ler o primeiro&lt;br&gt;número - n1" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=13;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="210" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hhgGqz2qNIXKNzTDPToa-12" value="Ler o segundo número - n2" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=13;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="310" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hhgGqz2qNIXKNzTDPToa-13" value="n2=0" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="400" y="400" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="hhgGqz2qNIXKNzTDPToa-15" value="Calcular a divisão de&lt;br&gt;&amp;nbsp;n1 por n2 -&amp;nbsp;&lt;br&gt;Divisão" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="540" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hhgGqz2qNIXKNzTDPToa-16" value="&amp;nbsp; &amp;nbsp;Mostrar em vídeo&amp;nbsp;&lt;br&gt;não é permitido&lt;br&gt;divisão por 0" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="570" y="490" width="140" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
